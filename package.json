@@ -16,23 +16,23 @@
   },
   "dependencies": {
     "bittorrent-dht": "git://github.com/cjb/bittorrent-dht#dht-store",
-    "bittorrent-protocol": "^1.5.7",
-    "bittorrent-swarm": "^5.0.2",
+    "bittorrent-protocol": "^2.1.6",
+    "bittorrent-swarm": "^8.0.0",
     "chalk": "^1.0.0",
-    "elliptic": "^3.0.3",
-    "glob": "^5.0.6",
+    "elliptic": "^6.3.2",
+    "glob": "^7.1.1",
     "hat": "^0.0.3",
     "inherits": "^2.0.1",
-    "magnet-uri": "^4.0.0",
+    "magnet-uri": "^5.1.5",
     "prettyjson": "^1.1.2",
     "rc": "^1.0.3",
     "ut_gittorrent": "^0.1.0",
-    "ut_metadata": "^2.7.3",
-    "webtorrent": "^0.48.0",
+    "ut_metadata": "^3.0.8",
+    "webtorrent": "^0.97.2",
     "zero-fill": "^2.2.1"
   },
   "devDependencies": {
-    "standard": "^3.1.1"
+    "standard": "^8.5.0"
   },
   "homepage": "http://gittorrent.org",
   "keywords": [
